@@ -1,0 +1,3 @@
+url: jdbc:mysql://localhost:3306/peluqueria_canina?zeroDateTimeBehavior=convertToNull
+user: root
+password: asdf1234!
